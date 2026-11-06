@@ -1,0 +1,29 @@
+# Visual Studio local state and caches
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+*.ipch
+*.vsidx
+*.tlog
+*.lastbuildstate
+
+# Compiled output and intermediate files
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.idb
+*.pch
+
+# Other local files
+.DS_Store
+Thumbs.db
